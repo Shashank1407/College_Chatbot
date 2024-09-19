@@ -1,5 +1,7 @@
 College Chatbot for Website
+
 Project Overview
+
 The College Chatbot is designed to help both new and existing students by providing answers to common questions about the institution. It serves as a virtual assistant that can handle inquiries related to admissions, courses, fees, scholarships, campus life, and more. By leveraging AI and natural language processing, the chatbot can automatically redirect users to relevant pages or provide detailed responses, making it easier to navigate the college's website and gather important information.
 
 Problem Statement
